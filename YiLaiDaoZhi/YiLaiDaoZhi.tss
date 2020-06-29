@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\YiLaiDaoZhi\YiLaiDaoZhi\YiLaiDaoZhi.cpp</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\YiLaiDaoZhi\YiLaiDaoZhi\Compute.cpp</string>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\YiLaiDaoZhi\YiLaiDaoZhi\Compute.h</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

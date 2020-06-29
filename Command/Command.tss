@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Command\Command\BaseCommand.cpp</string>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Command\Command\BaseCommand.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Command\Command\receiver.cpp</string>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Command\Command\receiver.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Command\Command\main.cpp</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Command\Command\RemoteControl.cpp</string>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Command\Command\RemoteControl.h</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AbFactory\AbFactory\Pizza.cpp</string>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AbFactory\AbFactory\Pizza.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AbFactory\AbFactory\Seasoning.cpp</string>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AbFactory\AbFactory\Seasoning.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AbFactory\AbFactory\SeasoningFactory.cpp</string>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AbFactory\AbFactory\SeasoningFactory.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AbFactory\AbFactory\PizzaStory.cpp</string>
+      <string>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\AbFactory\AbFactory\PizzaStory.h</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

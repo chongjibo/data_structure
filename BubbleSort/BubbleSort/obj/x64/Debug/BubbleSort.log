@@ -1,0 +1,8 @@
+﻿  Validating sources
+  Copying sources remotely to '47.94.245.121'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  BubbleSort.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2017\Projects\BubbleSort\BubbleSort\bin\x64\Debug\BubbleSort.out
